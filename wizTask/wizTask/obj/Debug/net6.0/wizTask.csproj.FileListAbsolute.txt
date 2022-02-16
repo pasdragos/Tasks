@@ -1,0 +1,15 @@
+C:\Users\Dragos\source\repos\wizTask\wizTask\bin\Debug\net6.0\wizTask.exe
+C:\Users\Dragos\source\repos\wizTask\wizTask\bin\Debug\net6.0\wizTask.deps.json
+C:\Users\Dragos\source\repos\wizTask\wizTask\bin\Debug\net6.0\wizTask.runtimeconfig.json
+C:\Users\Dragos\source\repos\wizTask\wizTask\bin\Debug\net6.0\wizTask.dll
+C:\Users\Dragos\source\repos\wizTask\wizTask\bin\Debug\net6.0\ref\wizTask.dll
+C:\Users\Dragos\source\repos\wizTask\wizTask\bin\Debug\net6.0\wizTask.pdb
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.csproj.AssemblyReference.cache
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.AssemblyInfoInputs.cache
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.AssemblyInfo.cs
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.dll
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\ref\wizTask.dll
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.pdb
+C:\Users\Dragos\source\repos\wizTask\wizTask\obj\Debug\net6.0\wizTask.genruntimeconfig.cache
